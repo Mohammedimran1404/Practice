@@ -1,2 +1,4 @@
 first line by master branch
 second line by master branch
+third line added by branch1
+
